@@ -1,0 +1,1 @@
+# Patika.sql-blob-main-homework6-homework6.sql
